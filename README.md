@@ -1,70 +1,46 @@
-# Getting Started with Create React App
+Task Tracker Web Application
+This repository contains a Task Tracker web application built using React and JavaScript for interactivity. The application allows users to record daily tasks along with their respective time and date. It also provides functionalities to update and delete recorded tasks, helping users track their activities on a daily, weekly, or monthly basis.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Features
+Task Recording: Add tasks with specific time and date.
+Task Management: Update or delete recorded tasks as needed.
+Time Tracking: View and track tasks based on the selected day, week, or month.
+Interactive UI: React-based user interface with dynamic interactivity using JavaScript.
+Responsive Design: Ensures usability across various devices and screen sizes.
+Technologies Used
+Frontend: React, JavaScript
+Styling: Custom CSS for styling and layout
+Installation
+To get a local copy up and running, follow these steps:
 
-## Available Scripts
+Clone the repository:
 
-In the project directory, you can run:
 
-### `npm start`
+Copy code
+git clone https://github.com/Task-tracker/task-tracker.git
+cd task-tracker
+Install dependencies:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Copy code
+npm install
+Run the application:
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Copy code
+npm start
+Open your browser:
 
-### `npm run build`
+Navigate to http://localhost:3000 to view the application.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Usage
+Add Task: Use the input fields to enter task details along with the time and date.
+Update Task: Click on a task to update its details.
+Delete Task: Remove tasks by clicking the delete button next to them.
+View Tasks: Select the day, week, or month to view tasks recorded during the specified time frame.
+# Live Demo
+You can view the live demo of the Task Tracker application https://stalwart-tapioca-323635.netlify.app/.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Contact
+Kaleab Mureja - LinkedIn: linkedin.com/in/kaleab-mureja-441008267 - GitHub: kaleab-mureja email: kaleabmureja123@gmail.com
