@@ -16,7 +16,7 @@ To get a local copy up and running, follow these steps:
 Clone the repository:
 
 Copy code
-git clone https://github.com/Task-tracker/task-tracker.git
+git clone https://github.com/kaleab-mureja/task-tracker.git
 cd task-tracker
 Install dependencies:
 
