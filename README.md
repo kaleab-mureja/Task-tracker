@@ -1,20 +1,19 @@
-Task Tracker Web Application
+# Task Tracker Web Application
 This repository contains a Task Tracker web application built using React and JavaScript for interactivity. The application allows users to record daily tasks along with their respective time and date. It also provides functionalities to update and delete recorded tasks, helping users track their activities on a daily, weekly, or monthly basis.
 
-Features
+# Features
 Task Recording: Add tasks with specific time and date.
 Task Management: Update or delete recorded tasks as needed.
 Time Tracking: View and track tasks based on the selected day, week, or month.
 Interactive UI: React-based user interface with dynamic interactivity using JavaScript.
 Responsive Design: Ensures usability across various devices and screen sizes.
-Technologies Used
+# Technologies Used
 Frontend: React, JavaScript
 Styling: Custom CSS for styling and layout
 Installation
 To get a local copy up and running, follow these steps:
 
 Clone the repository:
-
 
 Copy code
 git clone https://github.com/Task-tracker/task-tracker.git
